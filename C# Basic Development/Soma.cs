@@ -1,8 +1,5 @@
 ﻿// Chamada das namespaces e classes
 using System;
-using System.Diagnostics.Contracts;
-using System.Reflection;
-using System.Security.Cryptography.X509Certificates;
 
 // Criação do espaço para redigir as classes
 namespace ProjetoDeTeste {
