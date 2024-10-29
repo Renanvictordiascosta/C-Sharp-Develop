@@ -1,4 +1,4 @@
-﻿// Chamada das namespaces e classes
+﻿// Chamada da namespace
 using System;
 
 // Criação do espaço para redigir as classes
